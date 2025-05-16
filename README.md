@@ -1,4 +1,4 @@
-#⚡EnerGenius : Appliance Energy Consumption Prediction
+# ⚡EnerGenius : The Energy Consumption Prediction for Smat Buildings
 
 EnerGenius is a supervised machine learning project aimed at predicting the **energy consumption of appliances** using environmental and weather-related sensor data.
 
