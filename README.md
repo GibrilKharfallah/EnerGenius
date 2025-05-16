@@ -1,6 +1,6 @@
-# Appliance Energy Consumption Prediction
+# EnerGenius : Appliance Energy Consumption Prediction
 
-This notebook presents a supervised machine learning project aimed at predicting the **energy consumption of appliances** using environmental and weather-related sensor data.
+EnerGenius is a supervised machine learning project aimed at predicting the **energy consumption of appliances** using environmental and weather-related sensor data.
 
 ## 📘 Project Overview
 
